@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e06825e8-9ca0-4bfa-a924-e1b5aa986eb9
+
 # TriJello
 #THIS IS A CURSED BUGGY PEICE OF AI SLOP SOFTWARE USE AT YOUR OWN RISK I MADE IT AS A JOKE AND CLAUDE DID THE REST
 its really funny tho bc it does work not that badly lol
