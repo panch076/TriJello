@@ -1,5 +1,6 @@
 # TriJello
 #THIS IS A CURSED BUGGY PEICE OF AI SLOP SOFTWARE USE AT YOUR OWN RISK I MADE IT AS A JOKE AND CLAUDE DID THE REST
+its really funny tho bc it does work not that badly lol
 
 A macOS menu bar app that redraws your desktop live. Every window becomes a wobbly
 jello mesh, can be masked into a triangle, and gets an HDR brightness boost on EDR displays.
