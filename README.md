@@ -26,3 +26,10 @@ Screen & System Audio Recording, then relaunch. The app's menu sits behind the â
 menu bar, where you can toggle HDR Boost, Jello Physics and Triangles.
 
 thanks to @xativive on discord for the idea
+
+## Windows 11
+
+There's a Windows port in [`windows/`](windows/) (Windows.Graphics.Capture + Direct3D 11).
+Grab `trijello.exe` from the [Releases](../../releases) page, or build it yourself with
+`cargo build --release` in that folder. The menu is the pink â–³ in the system tray;
+Ctrl+Alt+J quits.
